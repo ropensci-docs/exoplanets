@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.5
+pkgdown_sha: ~
+articles:
+  exoplanets: exoplanets.html
+last_built: 2022-07-25T06:46Z
+urls:
+  reference: https://docs.ropensci.org/exoplanets/reference
+  article: https://docs.ropensci.org/exoplanets/articles
+

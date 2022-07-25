@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a8e5f8e00bf430a489bfc43e17a3d021a04b935b",
+    "author": "tyluRp <tylerlittlefield@hey.com>",
+    "time": "2021-07-24 19:30:00",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number\n"
+  },
+  "repo": "https://github.com/ropensci/exoplanets",
+  "pkg": "exoplanets"
+}
