@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "27db652071d68ffe1f5575ef424071b6fb2b2b0f",
+    "author": "tyluRp <tylerlittlefield@hey.com>",
+    "time": "2022-09-18 17:01:48",
+    "files": 1,
+    "merge": false,
+    "message": "update codemeta\n"
+  },
+  "repo": "https://github.com/ropensci/exoplanets",
+  "pkg": "exoplanets"
+}
